@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Build an RSS feed of Journal of Political Economy articles, combining:
-  1. "Ahead of Print" articles (DOI registered, no volume/issue assigned)
+Build an RSS feed of American Journal of Political Science articles, combining:
+  1. Early View articles (DOI registered, no volume/issue assigned)
   2. Articles in the latest published issue
 
 Data source: CrossRef REST API. Stdlib only - no pip installs needed.
@@ -14,14 +14,14 @@ from datetime import datetime, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
 
-ISSN = "1537-534X"  # JPE online ISSN
-JOURNAL_NAME = "Journal of Political Economy"
+ISSN = "1540-5907"  # AJPS online ISSN
+JOURNAL_NAME = "American Journal of Political Science"
 FEED_TITLE = f"{JOURNAL_NAME}"
-FEED_LINK = "https://www.journals.uchicago.edu/journal/jpe"
-OUTPUT = "feed.xml"
+FEED_LINK = "https://onlinelibrary.wiley.com/journal/15405907"
+OUTPUT = "ajps-feed.xml"
 
 BASE = f"https://api.crossref.org/journals/{ISSN}/works"
-UA = {"User-Agent": "jpe-feed/2.0 (mailto:you@example.com)"}
+UA = {"User-Agent": "ajps-feed/2.0 (mailto:you@example.com)"}
 
 
 def fetch(url, attempts=4):
@@ -138,7 +138,7 @@ def main():
     for w in aop:
         if w["DOI"] not in seen:
             seen.add(w["DOI"])
-            entries.append(rss_item(w, "Ahead of Print", created_dt(w)))
+            entries.append(rss_item(w, "Early View", created_dt(w)))
     for w in issue:
         if w["DOI"] not in seen:
             seen.add(w["DOI"])
@@ -151,7 +151,7 @@ def main():
         "<channel>",
         f"<title>{escape(FEED_TITLE)}</title>",
         f"<link>{escape(FEED_LINK)}</link>",
-        "<description>JPE ahead-of-print articles and the latest "
+        "<description>AJPS Early View articles and the latest "
         "published issue (via CrossRef)</description>",
         f"<lastBuildDate>{now}</lastBuildDate>",
         *entries,
@@ -160,7 +160,7 @@ def main():
     ])
     with open(OUTPUT, "w", encoding="utf-8") as f:
         f.write(rss)
-    print(f"Wrote {OUTPUT}: {len(aop)} ahead-of-print, "
+    print(f"Wrote {OUTPUT}: {len(aop)} Early View, "
           f"{len(entries) - len(aop)} from {issue_label}")
 
 
