@@ -4,7 +4,7 @@
 <title>American Journal of Political Science</title>
 <link>https://onlinelibrary.wiley.com/journal/15405907</link>
 <description>AJPS Early View articles and the latest published issue (via CrossRef)</description>
-<lastBuildDate>Tue, 13 Oct 2026 00:06:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 13:31:43 +0000</lastBuildDate>
 <item>
 <title>Teaching the past, informing the present? School history education and attitudes toward foreign countries</title>
 <link>https://doi.org/10.1111/ajps.70082</link>
@@ -352,19 +352,6 @@
                   &amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
-<title>Using large language models to analyze political texts through natural language understanding</title>
-<link>https://doi.org/10.1111/ajps.70050</link>
-<guid isPermaLink="false">10.1111/ajps.70050</guid>
-<category>Early View</category>
-<pubDate>Fri, 20 Mar 2026 05:38:12 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Kenneth Benoit, Scott De Marchi, Conor Laver, Michael Laver, Jinshuai Ma&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;
-                    Large language models (LLMs) offer scalable alternatives to human experts when analyzing political texts for
-                    &amp;lt;jats:italic&amp;gt;meaning&amp;lt;/jats:italic&amp;gt;
-                    , using natural language understanding (NLU). Qualitative NLU methods relying on human experts are severely limited by cost and scalability. Statistical text‐as‐data methods are scalable but rely on strong and often unrealistic assumptions. We propose a systematic, scalable, and replicable method that can extend existing qualitative and quantitative approaches by using LLMs to interpret texts meaningfully rather than as mere data. Our ensemble means of LLM‐generated estimates of party positions on six key issue dimensions correlate highly with equivalent mean ratings by country specialists. When applied to coalition policy declarations, LLM estimates align more closely with standard models of government formation than hand‐coded estimates. We conclude with a discussion of the profound implications of modern LLMs for political text analysis.
-                  &amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
 <title>Encouraging crossover voting in the 2024 presidential primary</title>
 <link>https://doi.org/10.1111/ajps.70052</link>
 <guid isPermaLink="false">10.1111/ajps.70052</guid>
@@ -378,15 +365,6 @@
                   &amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
-<title>Politics transformed? Electoral competition under ranked choice voting</title>
-<link>https://doi.org/10.1111/ajps.70040</link>
-<guid isPermaLink="false">10.1111/ajps.70040</guid>
-<category>Early View</category>
-<pubDate>Mon, 09 Mar 2026 03:41:22 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Peter Buisseret, Carlo Prato&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;We compare multicandidate elections under plurality rule versus ranked choice voting (RCV). We examine a widely held presumption that RCV more effectively incentivizes candidates to pursue broad campaigns that can appeal to all voters, rather than targeting a narrow segment of the electorate. That presumption is correct when preference transfers are competitive, that is, when multiple candidates have a reasonable chance of securing voters' second‐choice support. However, when transfers are uncompetitive due to partisan, ethnic, or cultural alignments, that presumption is reversed: RCV can strengthen candidates' incentives to pursue targeted campaigns.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
 <title>Mitigating policy uncertainty: What financial markets reveal about firm‐level lobbying</title>
 <link>https://doi.org/10.1111/ajps.70043</link>
 <guid isPermaLink="false">10.1111/ajps.70043</guid>
@@ -394,15 +372,6 @@
 <pubDate>Sun, 08 Mar 2026 17:16:02 +0000</pubDate>
 <description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Kristy Buzard, Nathan Canen, Sebastian Saiegh&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
                   &amp;lt;jats:p&amp;gt;Elections can lead to substantial policy changes and, thus, are a significant source of risk. Firms can respond to such policy uncertainty by lobbying, but it is hard to quantify whether they do so and, if so, how much lobbying benefits them. We construct a new dataset and leverage investors’ expectations of variability in stock returns in the aftermath of the 2020 US presidential election to generate a new firm‐level measure of exposure to policy uncertainty. We show that lobbying reduces policy uncertainty, and that this result holds even after controlling for selection into lobbying and sectoral heterogeneity. We then develop and quantify a model of heterogeneous firms with endogenous lobbying. We find that affecting policy through lobbying is costly and the returns from it are highly skewed and rapidly diminishing. Thus, while lobbying expenditures reduce the impact of policy risk, few firms anticipate sufficient gains to invest in it.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>The economic foundations of powersharing: Evidence from Africa</title>
-<link>https://doi.org/10.1111/ajps.70041</link>
-<guid isPermaLink="false">10.1111/ajps.70041</guid>
-<category>Early View</category>
-<pubDate>Sun, 08 Mar 2026 17:09:35 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Yannick I. Pengl, Philip Roessler&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;How—and with whom—do rulers share power? Existing research focuses on the strategic logic of powersharing. In this paper, we analyze its economic foundations. Powersharing is modeled as a subnational fiscal contract, in which rulers allocate political representation based on constituencies’ revenue potential. Empirically, we combine historical geospatial data on different types of primary commodity production—mineral point resources and diffuse smallholder cash crop agriculture—with the ethnic affiliation of cabinet ministers across 15 African countries. We find that cash crop groups are overrepresented in post‐independence cabinets, while mining or food crop production does not translate into higher shares of power. Consistent with a revenue bargaining framework, we find that rulers traded political representation and targeted public services for indirect taxation of cash crops. Overall, this suggests powersharing serves not only as a means to distribute resources and co‐opt potential challengers but also to expand the pie and the rents at the ruler's disposal.&amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
 <title>Long‐run confidence: Estimating uncertainty when using long‐run multipliers</title>
@@ -421,15 +390,6 @@
 <pubDate>Sun, 08 Mar 2026 10:49:15 +0000</pubDate>
 <description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Maxwell B. Allamong, Benjamin Beutel, Jongwoo Jeong, Paul M. Kellstedt&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
                   &amp;lt;jats:p&amp;gt;While many Americans identify as politically “independent,” conventional wisdom suggests most are covert partisans, especially “leaners.” However, we argue that independents exhibit distinct attitudes toward political parties. Analyzing American National Election Studies open‐ended responses from 1984 to 2020, we employ structural topic models and support vector machines to explore differences in how independents and partisans express “dislikes” about the major parties. Our results show that leaning independents differ significantly from self‐identified partisans in their language and align more closely with pure independents. Furthermore, we find that independents are more likely than partisans to mention issues related to “politics”—such as political cynicism, concern about special interests, or distaste for partisan conflict—when discussing their “dislikes.” These findings suggest that independents have meaningful distinctions from partisans beyond voting behavior, cautioning against overlooking the nuances between these groups.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Perversity, futility, complicity: Should democrats participate in autocratic elections?</title>
-<link>https://doi.org/10.1111/ajps.70049</link>
-<guid isPermaLink="false">10.1111/ajps.70049</guid>
-<category>Early View</category>
-<pubDate>Sun, 08 Mar 2026 10:31:34 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Zoltan Miklosi&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Electoral authoritarianism is receiving increasing attention from political scientists, yet it has been mostly ignored by political philosophers. This paper aims to fill some of this gap by considering whether it is morally permissibly for democrats to participate in autocratic elections as candidates or voters. Autocratic elections allow meaningful multiparty competition but are systematically unfair and partly unfree, and therefore, arguably, normatively illegitimate. The paper considers three objections to participation in autocratic elections. These objections hold, respectively, that participation has bad consequences for democratization, that it is normatively futile, and that it is morally wrong in itself. The paper argues that the objections are not decisive, and that participation is usually morally permissible and even preferable over alternative forms of challenge. However, the objections establish that the normative superiority of electoral challenge over the alternatives is only a matter of degree, and that participants often dirty their hands.&amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
 <title>Latinos mobilizing beyond threats: The role of fear and hope in issue activism</title>
@@ -462,15 +422,6 @@
                   &amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
-<title>Why did Putin invade Ukraine? A theory of degenerate autocracy</title>
-<link>https://doi.org/10.1111/ajps.70039</link>
-<guid isPermaLink="false">10.1111/ajps.70039</guid>
-<category>Early View</category>
-<pubDate>Tue, 17 Feb 2026 16:32:29 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Georgy Egorov, Konstantin Sonin&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Many dictatorships end up with a series of disastrous decisions such as Hitler's attack on the Soviet Union or Saddam Hussein's aggression against Kuwait. Even if a certain policy choice is not ultimately fatal for the regime, such as Mao's Big Leap Forward or the Pol Pot's collectivization drive, they typically involve both a miscalculation by the leadership and an institutional environment in which better informed subordinates have no chance to prevent the decision from being implemented. We offer a dynamic model of nondemocratic politics in which repression and bad decision making are self‐reinforcing. Repression reduces the immediate threat to the regime, yet raises future stakes for the dictator; with higher stakes, the dictator puts more emphasis on loyalty than competence, which in turn increases the probability of a wrong policy choice. Our theory offers an explanation of how rational dictators end up in an informational bubble even in highly institutionalized regimes.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
 <title>What political theory can learn from conceptual engineering: The case of “corruption”</title>
 <link>https://doi.org/10.1111/ajps.70035</link>
 <guid isPermaLink="false">10.1111/ajps.70035</guid>
@@ -478,15 +429,6 @@
 <pubDate>Tue, 17 Feb 2026 16:19:51 +0000</pubDate>
 <description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Emanuela Ceva, Patrizia Pedrini&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
                   &amp;lt;jats:p&amp;gt;Conceptual change is commonplace in political theory. Recent scholarship argues that improving a concept, or “engineering” it, can sharpen its normative and explanatory power. This article illustrates what political theory can learn from conceptual engineering (CE) by examining the evolution of “corruption” as a case study. Traditionally defined as the “use of entrusted power for private gain,” corruption has been revisited to capture broader institutional dysfunctions. We show how the recent re‐engineering of corruption as a “deficit of office accountability” enhances the concept's ability to capture uses of office power that may undercut institutional functioning beyond illegal acts, including individual wrongdoing and faulty institutional design. Re‐engineering corruption has normative value insofar as it helps policymakers and scholars alike to identify and address questionable uses of office power—including in nondemocratic regimes and nonpublic organizations. The article thereby argues that CE can enhance political theory's methodological toolkit and corroborate its practical relevance.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>The limits of AI for authoritarian control</title>
-<link>https://doi.org/10.1111/ajps.70045</link>
-<guid isPermaLink="false">10.1111/ajps.70045</guid>
-<category>Early View</category>
-<pubDate>Fri, 13 Feb 2026 09:28:56 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Eddie Yang&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;An emerging literature suggests that artificial intelligence (AI) can greatly enhance autocrats' repressive capabilities. This paper argues that while AI presents a powerful new tool for authoritarian control, its effectiveness is constrained by the very repressive institutions it is designed to serve. This constraint stems from what I term the “authoritarian data problem”: citizens' strategic behavior under repression diminishes the amount of useful information in the data for training AI. The more repression there is, the less information exists in AI's training data, and the worse the AI performs. I illustrate this argument using an AI experiment and censorship data in China. I show that AI's accuracy in censorship decreases with increasing repression, especially during times of political crisis. I further show that this problem cannot be easily fixed with more data. Ironically, international data—especially data from less repressive settings—can help improve AI's ability to censor.&amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
 <title>Does external threat bring the nation together? Evidence from the United States</title>
@@ -522,15 +464,6 @@
                   &amp;lt;jats:p&amp;gt;Existing literature posits that attitudes toward immigration are shaped by the impact of migrants on native workers' wages and employment, as well as by various other material, cultural, and social concerns. However, empirically disentangling these influences can be challenging. By taking advantage of the fact that different types of labor migrants, namely either taking residence and working in a country or commuting over an international border, equally affect labor market competition but have different cultural and social implications, we strive to identify the effect of labor migration on attitudes toward migration. We empirically investigate this phenomenon using two experiments embedded within a representative survey in Switzerland, one priming and one conjoint experiment. Results robustly show that natives evaluate resident foreigners more positively than cross‐border commuters and that levels of exposure and fairness aspects explain this preference.&amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
-<title>How shifting priorities and capacity affect policy work and constituency service: Evidence from a census of legislator requests to U.S. federal agencies</title>
-<link>https://doi.org/10.1111/ajps.70031</link>
-<guid isPermaLink="false">10.1111/ajps.70031</guid>
-<category>Early View</category>
-<pubDate>Sat, 31 Jan 2026 06:05:02 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Devin Judge‐Lord, Eleanor Neff Powell, Justin Grimmer&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;When elected officials gain power, do they use it to provide more constituent service or affect policy? The answer informs debates over how legislator capacity, term limits, and institutional positions affect legislator behavior. We distinguish two countervailing effects of increased institutional power: shifting priorities and increased capacity. To assess how institutional power shapes behavior, we assemble a massive new database of 611,239 legislator requests to a near census of federal departments, agencies, and subagencies between 2007 and 2020. We find that legislators prioritize policy work as they gain institutional power (e.g., become a committee chair) but simultaneously maintain their levels of constituency service. Moreover, when a new legislator replaces an experienced legislator, the district receives less constituency service and less policy work. Rather than long‐serving and powerful elected officials diverting attention from constituents, their increased capacity enables them to maintain levels of constituency service, even as they prioritize policy work.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
 <title>Race, gender, and party in EEOC cases, 1996–2006: Assessing the role of judge attributes in case outcomes in the US district courts</title>
 <link>https://doi.org/10.1111/ajps.70032</link>
 <guid isPermaLink="false">10.1111/ajps.70032</guid>
@@ -538,114 +471,6 @@
 <pubDate>Sat, 31 Jan 2026 05:45:26 +0000</pubDate>
 <description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Sean Farhang, Gregory J. Wawro, Michael E. Sobel&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
                   &amp;lt;jats:p&amp;gt;We study the relationship between trial judge attributes and monetary outcomes in cases brought by the Equal Employment Opportunity Commission. We define an estimand, the average feature comparison (AFC), that addresses whether or not a case outcome would differ were it assigned to a judge of one type as opposed to another—here male versus female, White versus non‐White, or Republican versus Democratic appointee. We develop a framework for estimating the AFC that takes into consideration which judges are eligible to be randomly assigned to given cases. We find the probability a case results in nonzero relief is greater if that case were assigned to a non‐White judge than to a White judge, but the relief amount is not. For gender (party), we do not find evidence that the monetary outcome of a case would be different if it was assigned to a male (Democrat) rather than a female (Republican) judge.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>To fight or to govern? Political capital and electoral competition</title>
-<link>https://doi.org/10.1111/ajps.70030</link>
-<guid isPermaLink="false">10.1111/ajps.70030</guid>
-<category>Early View</category>
-<pubDate>Wed, 07 Jan 2026 09:11:07 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Catherine Hafer, Scott A. Tyson, Congyi Zhou&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;We examine the endogenous development of specialized political capital and its use, by both governing and opposition parties, within a model of policymaking and electoral competition. The opposition party can use political capital to impede the governing party's policy agenda—to throw sand in the gears—but may make itself less electorally desirable in the process. We characterize conditions that give rise to different equilibrium patterns of political capital, including, among others, entrenched parties. Our results suggest that, in the special circumstances in which they arise, entrenched parties offer the voter a silver lining: In these cases, the incumbent and opposition parties have acquired different specialized political capital, and voters benefit from the opposition's developed capacity to curb the governing party's excesses. Due to the underlying conditions, policy outcomes are still poor, but, under relevant conditions, party entrenchment mitigates them, rather than exacerbating them as conventionally supposed.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>The policy adjacent: How affordable housing generates policy feedback among neighboring residents</title>
-<link>https://doi.org/10.1111/ajps.70022</link>
-<guid isPermaLink="false">10.1111/ajps.70022</guid>
-<category>Early View</category>
-<pubDate>Mon, 05 Jan 2026 05:41:32 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Michael Hankinson, Asya Magazinnik, Melissa Sands&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;While scholars have documented feedback effects among a policy's direct winners and losers, less is known about whether such effects can occur among the indirectly affected—“the policy adjacent.” Using 458 geocoded housing developments built between two nearly identical statewide ballot propositions funding affordable housing in California, we show that policy generates feedback effects among neighboring residents in systematic ways. New, nearby affordable housing causes majority‐homeowner blocks to increase their support for the housing bond, while majority‐renter blocks decrease or do not change their support. We attribute the positive effect among majority‐homeowner blocks to the housing's replacement of blight. In contrast, the lack of a positive effect among majority‐renter blocks may be driven by the threat of gentrification. Policy implementation can win support for expansion among unexpected beneficiaries, while failing to do so even among the policy's presumed allies.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Globalization, internal migration, and public goods provision in emerging economies</title>
-<link>https://doi.org/10.1111/ajps.70029</link>
-<guid isPermaLink="false">10.1111/ajps.70029</guid>
-<category>Early View</category>
-<pubDate>Tue, 30 Dec 2025 05:15:14 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Benjamin Helms, Junghyun Lim&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Globalization can introduce new employment opportunities to emerging economies in multinational corporations and exporting firms. Who is best positioned to benefit, and what are the political consequences for “left behind” areas? We argue that primarily advantaged groups seize these opportunities through internal migration toward centers of global production—a costly activity not everyone can undertake. This selective out‐migration creates demographic shifts in left‐behind areas, weakening public goods provision. We test our argument in India, first documenting selective internal migration of advantaged groups. We then leverage the Indian information technology (IT) export boom and explore its consequences for public goods provision. We find that the IT boom increased migration toward centers of production and away from left‐behind localities. We also find that public goods provision was relatively weaker in unexposed localities, especially geographically distant ones. We identify migration as a mechanism through which globalization drives political change even in unexposed areas.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>An ecclesiastical court: Christian nationalism and perceptions of the US Supreme Court</title>
-<link>https://doi.org/10.1111/ajps.70024</link>
-<guid isPermaLink="false">10.1111/ajps.70024</guid>
-<category>Early View</category>
-<pubDate>Thu, 11 Dec 2025 01:30:21 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Miles T. Armaly, Jonathan M. King, Elizabeth A. Lane, Jessica A. Schoenherr&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Recently, scholars have increasingly examined the unique blending of Christian and political ideology known as Christian nationalism. During this period, the US Supreme Court has increasingly ruled in ways that favor Christian nationalism, and Court watchers have criticized several justices for showing bias toward Christianity at best and Christian nationalism at worst. We use two large, nationally representative samples to examine the connection between Christian nationalism and attitudes about the Court. Observationally, we ask if this ideology relates to support for the Court's decision to overturn abortion rights and agreement with the use of nonlegal and religious logic in decisions. Experimentally, we test whether exposure to a story about Justice Alito flying a Christian nationalist flag can legitimate the use of religious decision‐making logic. We find support for all three propositions, indicating the Court's recent turn has real effects on its supporters, its legitimacy, and, potentially, its future behavior.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>The public agglomeration effect: Urban–rural divisions in government efficiency and political preferences</title>
-<link>https://doi.org/10.1111/ajps.70023</link>
-<guid isPermaLink="false">10.1111/ajps.70023</guid>
-<category>Early View</category>
-<pubDate>Thu, 11 Dec 2025 01:26:42 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Theo Serlin&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Why and when do cities vote for the left? The emergence of the urban–rural divide in the United States in the 1930s is inconsistent with canonical theories of cleavages. This paper introduces an explanation: agglomeration effects. The provision of government services is more efficient in urban environments because of nonrivalries, economies of scale, and access costs. If the public sector in cities is more efficient, and voters face a trade‐off between taxation and government spending, urban voters support more spending. When redistribution is salient, one should observe an urban–rural electoral divide. As predicted by a formal model, more‐urban locations faced lower costs of providing public services and shifted toward the Democrats as the party implemented the New Deal. In addition, urban voters were more supportive of government spending. In the United Kingdom, the urban–rural divide also accompanied the rise of redistributive politics. Agglomeration effects influence preferences for redistribution and create political cleavages.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Reviewing fast or slow: A theory of summary reversal in the judicial hierarchy</title>
-<link>https://doi.org/10.1111/ajps.70018</link>
-<guid isPermaLink="false">10.1111/ajps.70018</guid>
-<category>Early View</category>
-<pubDate>Tue, 02 Dec 2025 02:35:18 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Alexander V. Hirsch, Jonathan P. Kastellec, Robin A. Taboni&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Appellate courts with discretionary dockets have multiple ways to review lower courts. We develop a formal model that evaluates the trade‐offs between “full review”—which features full briefing, oral arguments, and signed opinions—versus “quick review,” where a higher court can summarily reverse a lower court. We show that having the option of costless summary reversal can increase compliance by lower courts but also distorts their behavior compared to relying only on costly full review. When the higher court is uncertain about the lower court's preferences, the threat of summary reversal can lead an aligned lower court to “pander” and issue the opposite disposition to that preferred by the higher court. Access to summary reversal can therefore harm the higher court in some circumstances. Our analysis provides a theoretical foundation for growing concern over the U.S. Supreme Court's “shadow docket”—of which summarily reversals are a component—which has been empirically focused to date.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>A drag on the ticket? Estimating top‐of‐the‐ticket effects on down‐ballot races</title>
-<link>https://doi.org/10.1111/ajps.70025</link>
-<guid isPermaLink="false">10.1111/ajps.70025</guid>
-<category>Early View</category>
-<pubDate>Sun, 30 Nov 2025 09:21:03 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Kevin DeLuca, Daniel J. Moskowitz, Benjamin Schneer&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Campaign staff, journalists, and political scientists commonly attribute the poor performances of a party's down‐ballot candidates to low‐quality or extreme top‐of‐the‐ticket candidates, but empirical evidence on this conventional wisdom is scant. We estimate the effect of candidate quality and ideology in gubernatorial and U.S. Senate elections on co‐partisan vote shares in down‐ballot U.S. House races. While naive estimates imply that top‐of‐the‐ticket candidates influence down‐ballot outcomes, after accounting for correlations in candidate quality/ideology across offices, we estimate near‐zero statewide top‐of‐the‐ticket effects on U.S. House elections. We similarly observe near‐zero top‐of‐the‐ticket effects in the further‐down‐ballot settings of state‐legislative and county‐legislative elections. Overall, voters exhibit a strong capacity to discern differences in quality and ideology across offices and incorporate this information into their vote choice throughout the time period under investigation. However, in line with other research, this link between candidate quality/ideology and election outcomes has weakened considerably in recent years.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Filling the tax gap: How private donations compensate a faltering fiscal contract</title>
-<link>https://doi.org/10.1111/ajps.70026</link>
-<guid isPermaLink="false">10.1111/ajps.70026</guid>
-<category>Early View</category>
-<pubDate>Thu, 27 Nov 2025 06:38:04 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Simone Paci&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Do individuals contribute to public service provision when others in the community shirk on their taxes? The long‐standing literature on conditional cooperation has widely documented a knock‐on effect of freeriding. I argue that individuals may turn to civil society as an alternative way to fund public services. First, I leverage a natural experiment in Slovakia, based on the timing of a naming‐and‐shaming tax policy. Communities exposed to a public disclosure of noncompliance donate 16% more. Second, I replicate this via a survey experiment, showing an increase in charitable giving of 9% as well as eroding faith in the tax system. Highlighting the role of altruism, donations increase the most among respondents who believe their town relies on public services. In a conjoint, treated respondents also preferred public donations, suggesting an additional reputation mechanism. Finally, cross‐country survey evidence bolsters external validity, showing a robust correlation between perceived tax cheating and local volunteering.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Brokerage and patronage: Regional chambers of commerce and firm subsidies in China</title>
-<link>https://doi.org/10.1111/ajps.70027</link>
-<guid isPermaLink="false">10.1111/ajps.70027</guid>
-<category>Early View</category>
-<pubDate>Tue, 18 Nov 2025 06:21:36 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Zeren Li, Shenghua Lu&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Although conventional wisdom suggests that corporations form groups to obtain policy benefits through lobbying, we argue that business interest groups can secure distributive benefits for their members without advocating for policy changes. We introduce broker theory, which posits that interest groups act as intermediaries, linking member firms with political patrons who deliver tangible favors. We test this theory by examining China's interprovincial chambers of commerce (CoCs). We show that firms receive more distributive benefits—measured by subsidies from local governments—after obtaining CoC memberships. We present two forms of heterogeneity that support the broker role of CoCs. First, patronage benefits emerge only in chambers with officials‐turned‐brokers, who facilitate access to political patrons. Second, transparency weakens subsidy brokering: The membership premium diminishes in regions with greater transparency in subsidy allocation. We also show that these patronage benefits are not driven by the policy influence of CoCs or by reduced local protectionism.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Grounding the diasporic turn in political theory: Meta‐commitment, transnationalism, and political obligation</title>
-<link>https://doi.org/10.1111/ajps.70020</link>
-<guid isPermaLink="false">10.1111/ajps.70020</guid>
-<category>Early View</category>
-<pubDate>Tue, 18 Nov 2025 06:20:46 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Kai Yui Samuel Chan, Anna Closas&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Diasporas remain understudied in political theory. To ground a robust engagement with diasporas and their normative challenges, we expand on current transnationalism literature to offer a non‐statist framework of political community. This framework is necessary as the diaspora is a transnational community that shares overlapping narratives and practices but lacks unified institutional structures and objectives. Tracking these features, we posit that individuals constitute a diasporic community by expressing, through their practices and narratives, a joint meta‐commitment to act as part of that community. Meta‐commitments do not require the parties to have substantial agreements beyond mutually recognizing each other as acting on behalf of the same community. The diasporic meta‐commitment grounds an obligation of answerability: Diasporic members owe each other an answer as to how their choices relate to the future of the diaspora. This account contributes to transnational political theory by explaining the conditions under which transnational relations generate obligations.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Why women's equal representation increases policy losers’ consent: Revisiting the double‐edged sword of procedural fairness</title>
-<link>https://doi.org/10.1111/ajps.70021</link>
-<guid isPermaLink="false">10.1111/ajps.70021</guid>
-<category>Early View</category>
-<pubDate>Wed, 12 Nov 2025 11:33:16 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Mattias Agerberg, Lena Wängnerud&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Studies show that procedural fairness in the form of equal representation has the potential to increase decision legitimacy. At the same time, several studies point to potential adverse effects, where, for instance, the equal inclusion of women in decision‐making bodies might serve to legitimize anti‐feminist decisions in particular. We argue that such conclusions result from a failure to consider the importance of outcome favorability, a factor long recognized to be of crucial importance in other fields of research. We incorporate outcome favorability theoretically and empirically in several experimental studies and show that what has previously been interpreted as a “dark side” of descriptive representation, instead should be viewed as the power of fair procedures to increase losers’ consent. We contribute to the literature on representation and legitimacy and show how appropriate research design and measurement can shape substantive conclusions on high‐stakes issues.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Police department design, political pressure, and racial inequality in arrests</title>
-<link>https://doi.org/10.1111/ajps.70016</link>
-<guid isPermaLink="false">10.1111/ajps.70016</guid>
-<category>Early View</category>
-<pubDate>Fri, 31 Oct 2025 16:27:38 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Andrew J. McCall&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;This paper theorizes a source of bias in discretionary arrests: strategic limits on police officer learning. Officers have a variety of tactics at their disposal besides arrest that they use for less serious offenses when they judge the underlying behavior to be less severe. In departments led by a chief with special expertise in crime control, the chief's directives to change the severity threshold at which officers make arrests are a source of information about the most effective practices. However, if officers are uncertain whether their chief is swayed by political pressures, those directives will be less persuasive, especially when they align with what influential advocates want. This mechanism represents a constraint on the effectiveness of departments where chiefs have limited means to force subordinate compliance. With increasing Black political influence in cities since World War II, this inefficiency would have generated a form of anti‐Black structural racism in policing.&amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
 <title>Learning by lobbying</title>
@@ -657,250 +482,245 @@
                   &amp;lt;jats:p&amp;gt;Effective lobbying requires understanding politicians' preferences, while the act of lobbying itself can reveal those preferences. How does this link between lobbying and learning shape relationships between interest groups and politicians? We develop a game‐theoretic model where an interest group can lobby a politician while learning about their ideological alignment. Our analysis highlights strategic tensions where interest groups balance information‐gathering against policy influence in their lobbying, while forward‐looking politicians manage their reputations to shape future interactions. These forces shape dynamics: Policies and transfers shift over time as uncertainty resolves, and early‐career politicians can show greater policy variance and extract larger benefits through reputation management than veterans. Politicians with secure positions can receive more favorable treatment due to their stronger incentives to appear less aligned than they truly are. Our results address empirical regularities and provide a theoretical foundation for understanding how lobbying relationships evolve across political careers and institutional contexts.&amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
+<title>Issue Information</title>
+<link>https://doi.org/10.1111/ajps.70105</link>
+<guid isPermaLink="false">10.1111/ajps.70105</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]</description>
+</item>
+<item>
+<title>Using large language models to analyze political texts through natural language understanding</title>
+<link>https://doi.org/10.1111/ajps.70050</link>
+<guid isPermaLink="false">10.1111/ajps.70050</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Kenneth Benoit, Scott De Marchi, Conor Laver, Michael Laver, Jinshuai Ma&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;
+                    Large language models (LLMs) offer scalable alternatives to human experts when analyzing political texts for
+                    &amp;lt;jats:italic&amp;gt;meaning&amp;lt;/jats:italic&amp;gt;
+                    , using natural language understanding (NLU). Qualitative NLU methods relying on human experts are severely limited by cost and scalability. Statistical text‐as‐data methods are scalable but rely on strong and often unrealistic assumptions. We propose a systematic, scalable, and replicable method that can extend existing qualitative and quantitative approaches by using LLMs to interpret texts meaningfully rather than as mere data. Our ensemble means of LLM‐generated estimates of party positions on six key issue dimensions correlate highly with equivalent mean ratings by country specialists. When applied to coalition policy declarations, LLM estimates align more closely with standard models of government formation than hand‐coded estimates. We conclude with a discussion of the profound implications of modern LLMs for political text analysis.
+                  &amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>Politics transformed? Electoral competition under ranked choice voting</title>
+<link>https://doi.org/10.1111/ajps.70040</link>
+<guid isPermaLink="false">10.1111/ajps.70040</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Peter Buisseret, Carlo Prato&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;We compare multicandidate elections under plurality rule versus ranked choice voting (RCV). We examine a widely held presumption that RCV more effectively incentivizes candidates to pursue broad campaigns that can appeal to all voters, rather than targeting a narrow segment of the electorate. That presumption is correct when preference transfers are competitive, that is, when multiple candidates have a reasonable chance of securing voters' second‐choice support. However, when transfers are uncompetitive due to partisan, ethnic, or cultural alignments, that presumption is reversed: RCV can strengthen candidates' incentives to pursue targeted campaigns.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>The economic foundations of powersharing: Evidence from Africa</title>
+<link>https://doi.org/10.1111/ajps.70041</link>
+<guid isPermaLink="false">10.1111/ajps.70041</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Yannick I. Pengl, Philip Roessler&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;How—and with whom—do rulers share power? Existing research focuses on the strategic logic of powersharing. In this paper, we analyze its economic foundations. Powersharing is modeled as a subnational fiscal contract, in which rulers allocate political representation based on constituencies’ revenue potential. Empirically, we combine historical geospatial data on different types of primary commodity production—mineral point resources and diffuse smallholder cash crop agriculture—with the ethnic affiliation of cabinet ministers across 15 African countries. We find that cash crop groups are overrepresented in post‐independence cabinets, while mining or food crop production does not translate into higher shares of power. Consistent with a revenue bargaining framework, we find that rulers traded political representation and targeted public services for indirect taxation of cash crops. Overall, this suggests powersharing serves not only as a means to distribute resources and co‐opt potential challengers but also to expand the pie and the rents at the ruler's disposal.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>Perversity, futility, complicity: Should democrats participate in autocratic elections?</title>
+<link>https://doi.org/10.1111/ajps.70049</link>
+<guid isPermaLink="false">10.1111/ajps.70049</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Zoltan Miklosi&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Electoral authoritarianism is receiving increasing attention from political scientists, yet it has been mostly ignored by political philosophers. This paper aims to fill some of this gap by considering whether it is morally permissibly for democrats to participate in autocratic elections as candidates or voters. Autocratic elections allow meaningful multiparty competition but are systematically unfair and partly unfree, and therefore, arguably, normatively illegitimate. The paper considers three objections to participation in autocratic elections. These objections hold, respectively, that participation has bad consequences for democratization, that it is normatively futile, and that it is morally wrong in itself. The paper argues that the objections are not decisive, and that participation is usually morally permissible and even preferable over alternative forms of challenge. However, the objections establish that the normative superiority of electoral challenge over the alternatives is only a matter of degree, and that participants often dirty their hands.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>Why did Putin invade Ukraine? A theory of degenerate autocracy</title>
+<link>https://doi.org/10.1111/ajps.70039</link>
+<guid isPermaLink="false">10.1111/ajps.70039</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Georgy Egorov, Konstantin Sonin&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Many dictatorships end up with a series of disastrous decisions such as Hitler's attack on the Soviet Union or Saddam Hussein's aggression against Kuwait. Even if a certain policy choice is not ultimately fatal for the regime, such as Mao's Big Leap Forward or the Pol Pot's collectivization drive, they typically involve both a miscalculation by the leadership and an institutional environment in which better informed subordinates have no chance to prevent the decision from being implemented. We offer a dynamic model of nondemocratic politics in which repression and bad decision making are self‐reinforcing. Repression reduces the immediate threat to the regime, yet raises future stakes for the dictator; with higher stakes, the dictator puts more emphasis on loyalty than competence, which in turn increases the probability of a wrong policy choice. Our theory offers an explanation of how rational dictators end up in an informational bubble even in highly institutionalized regimes.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>The limits of AI for authoritarian control</title>
+<link>https://doi.org/10.1111/ajps.70045</link>
+<guid isPermaLink="false">10.1111/ajps.70045</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Eddie Yang&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;An emerging literature suggests that artificial intelligence (AI) can greatly enhance autocrats' repressive capabilities. This paper argues that while AI presents a powerful new tool for authoritarian control, its effectiveness is constrained by the very repressive institutions it is designed to serve. This constraint stems from what I term the “authoritarian data problem”: citizens' strategic behavior under repression diminishes the amount of useful information in the data for training AI. The more repression there is, the less information exists in AI's training data, and the worse the AI performs. I illustrate this argument using an AI experiment and censorship data in China. I show that AI's accuracy in censorship decreases with increasing repression, especially during times of political crisis. I further show that this problem cannot be easily fixed with more data. Ironically, international data—especially data from less repressive settings—can help improve AI's ability to censor.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>How shifting priorities and capacity affect policy work and constituency service: Evidence from a census of legislator requests to U.S. federal agencies</title>
+<link>https://doi.org/10.1111/ajps.70031</link>
+<guid isPermaLink="false">10.1111/ajps.70031</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Devin Judge‐Lord, Eleanor Neff Powell, Justin Grimmer&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;When elected officials gain power, do they use it to provide more constituent service or affect policy? The answer informs debates over how legislator capacity, term limits, and institutional positions affect legislator behavior. We distinguish two countervailing effects of increased institutional power: shifting priorities and increased capacity. To assess how institutional power shapes behavior, we assemble a massive new database of 611,239 legislator requests to a near census of federal departments, agencies, and subagencies between 2007 and 2020. We find that legislators prioritize policy work as they gain institutional power (e.g., become a committee chair) but simultaneously maintain their levels of constituency service. Moreover, when a new legislator replaces an experienced legislator, the district receives less constituency service and less policy work. Rather than long‐serving and powerful elected officials diverting attention from constituents, their increased capacity enables them to maintain levels of constituency service, even as they prioritize policy work.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>To fight or to govern? Political capital and electoral competition</title>
+<link>https://doi.org/10.1111/ajps.70030</link>
+<guid isPermaLink="false">10.1111/ajps.70030</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Catherine Hafer, Scott A. Tyson, Congyi Zhou&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;We examine the endogenous development of specialized political capital and its use, by both governing and opposition parties, within a model of policymaking and electoral competition. The opposition party can use political capital to impede the governing party's policy agenda—to throw sand in the gears—but may make itself less electorally desirable in the process. We characterize conditions that give rise to different equilibrium patterns of political capital, including, among others, entrenched parties. Our results suggest that, in the special circumstances in which they arise, entrenched parties offer the voter a silver lining: In these cases, the incumbent and opposition parties have acquired different specialized political capital, and voters benefit from the opposition's developed capacity to curb the governing party's excesses. Due to the underlying conditions, policy outcomes are still poor, but, under relevant conditions, party entrenchment mitigates them, rather than exacerbating them as conventionally supposed.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>The policy adjacent: How affordable housing generates policy feedback among neighboring residents</title>
+<link>https://doi.org/10.1111/ajps.70022</link>
+<guid isPermaLink="false">10.1111/ajps.70022</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Michael Hankinson, Asya Magazinnik, Melissa Sands&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;While scholars have documented feedback effects among a policy's direct winners and losers, less is known about whether such effects can occur among the indirectly affected—“the policy adjacent.” Using 458 geocoded housing developments built between two nearly identical statewide ballot propositions funding affordable housing in California, we show that policy generates feedback effects among neighboring residents in systematic ways. New, nearby affordable housing causes majority‐homeowner blocks to increase their support for the housing bond, while majority‐renter blocks decrease or do not change their support. We attribute the positive effect among majority‐homeowner blocks to the housing's replacement of blight. In contrast, the lack of a positive effect among majority‐renter blocks may be driven by the threat of gentrification. Policy implementation can win support for expansion among unexpected beneficiaries, while failing to do so even among the policy's presumed allies.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>Globalization, internal migration, and public goods provision in emerging economies</title>
+<link>https://doi.org/10.1111/ajps.70029</link>
+<guid isPermaLink="false">10.1111/ajps.70029</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Benjamin Helms, Junghyun Lim&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Globalization can introduce new employment opportunities to emerging economies in multinational corporations and exporting firms. Who is best positioned to benefit, and what are the political consequences for “left behind” areas? We argue that primarily advantaged groups seize these opportunities through internal migration toward centers of global production—a costly activity not everyone can undertake. This selective out‐migration creates demographic shifts in left‐behind areas, weakening public goods provision. We test our argument in India, first documenting selective internal migration of advantaged groups. We then leverage the Indian information technology (IT) export boom and explore its consequences for public goods provision. We find that the IT boom increased migration toward centers of production and away from left‐behind localities. We also find that public goods provision was relatively weaker in unexposed localities, especially geographically distant ones. We identify migration as a mechanism through which globalization drives political change even in unexposed areas.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>An ecclesiastical court: Christian nationalism and perceptions of the US Supreme Court</title>
+<link>https://doi.org/10.1111/ajps.70024</link>
+<guid isPermaLink="false">10.1111/ajps.70024</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Miles T. Armaly, Jonathan M. King, Elizabeth A. Lane, Jessica A. Schoenherr&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Recently, scholars have increasingly examined the unique blending of Christian and political ideology known as Christian nationalism. During this period, the US Supreme Court has increasingly ruled in ways that favor Christian nationalism, and Court watchers have criticized several justices for showing bias toward Christianity at best and Christian nationalism at worst. We use two large, nationally representative samples to examine the connection between Christian nationalism and attitudes about the Court. Observationally, we ask if this ideology relates to support for the Court's decision to overturn abortion rights and agreement with the use of nonlegal and religious logic in decisions. Experimentally, we test whether exposure to a story about Justice Alito flying a Christian nationalist flag can legitimate the use of religious decision‐making logic. We find support for all three propositions, indicating the Court's recent turn has real effects on its supporters, its legitimacy, and, potentially, its future behavior.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>The public agglomeration effect: Urban–rural divisions in government efficiency and political preferences</title>
+<link>https://doi.org/10.1111/ajps.70023</link>
+<guid isPermaLink="false">10.1111/ajps.70023</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Theo Serlin&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Why and when do cities vote for the left? The emergence of the urban–rural divide in the United States in the 1930s is inconsistent with canonical theories of cleavages. This paper introduces an explanation: agglomeration effects. The provision of government services is more efficient in urban environments because of nonrivalries, economies of scale, and access costs. If the public sector in cities is more efficient, and voters face a trade‐off between taxation and government spending, urban voters support more spending. When redistribution is salient, one should observe an urban–rural electoral divide. As predicted by a formal model, more‐urban locations faced lower costs of providing public services and shifted toward the Democrats as the party implemented the New Deal. In addition, urban voters were more supportive of government spending. In the United Kingdom, the urban–rural divide also accompanied the rise of redistributive politics. Agglomeration effects influence preferences for redistribution and create political cleavages.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>Reviewing fast or slow: A theory of summary reversal in the judicial hierarchy</title>
+<link>https://doi.org/10.1111/ajps.70018</link>
+<guid isPermaLink="false">10.1111/ajps.70018</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Alexander V. Hirsch, Jonathan P. Kastellec, Robin A. Taboni&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Appellate courts with discretionary dockets have multiple ways to review lower courts. We develop a formal model that evaluates the trade‐offs between “full review”—which features full briefing, oral arguments, and signed opinions—versus “quick review,” where a higher court can summarily reverse a lower court. We show that having the option of costless summary reversal can increase compliance by lower courts but also distorts their behavior compared to relying only on costly full review. When the higher court is uncertain about the lower court's preferences, the threat of summary reversal can lead an aligned lower court to “pander” and issue the opposite disposition to that preferred by the higher court. Access to summary reversal can therefore harm the higher court in some circumstances. Our analysis provides a theoretical foundation for growing concern over the U.S. Supreme Court's “shadow docket”—of which summarily reversals are a component—which has been empirically focused to date.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>A drag on the ticket? Estimating top‐of‐the‐ticket effects on down‐ballot races</title>
+<link>https://doi.org/10.1111/ajps.70025</link>
+<guid isPermaLink="false">10.1111/ajps.70025</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Kevin DeLuca, Daniel J. Moskowitz, Benjamin Schneer&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Campaign staff, journalists, and political scientists commonly attribute the poor performances of a party's down‐ballot candidates to low‐quality or extreme top‐of‐the‐ticket candidates, but empirical evidence on this conventional wisdom is scant. We estimate the effect of candidate quality and ideology in gubernatorial and U.S. Senate elections on co‐partisan vote shares in down‐ballot U.S. House races. While naive estimates imply that top‐of‐the‐ticket candidates influence down‐ballot outcomes, after accounting for correlations in candidate quality/ideology across offices, we estimate near‐zero statewide top‐of‐the‐ticket effects on U.S. House elections. We similarly observe near‐zero top‐of‐the‐ticket effects in the further‐down‐ballot settings of state‐legislative and county‐legislative elections. Overall, voters exhibit a strong capacity to discern differences in quality and ideology across offices and incorporate this information into their vote choice throughout the time period under investigation. However, in line with other research, this link between candidate quality/ideology and election outcomes has weakened considerably in recent years.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>Filling the tax gap: How private donations compensate a faltering fiscal contract</title>
+<link>https://doi.org/10.1111/ajps.70026</link>
+<guid isPermaLink="false">10.1111/ajps.70026</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Simone Paci&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Do individuals contribute to public service provision when others in the community shirk on their taxes? The long‐standing literature on conditional cooperation has widely documented a knock‐on effect of freeriding. I argue that individuals may turn to civil society as an alternative way to fund public services. First, I leverage a natural experiment in Slovakia, based on the timing of a naming‐and‐shaming tax policy. Communities exposed to a public disclosure of noncompliance donate 16% more. Second, I replicate this via a survey experiment, showing an increase in charitable giving of 9% as well as eroding faith in the tax system. Highlighting the role of altruism, donations increase the most among respondents who believe their town relies on public services. In a conjoint, treated respondents also preferred public donations, suggesting an additional reputation mechanism. Finally, cross‐country survey evidence bolsters external validity, showing a robust correlation between perceived tax cheating and local volunteering.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>Brokerage and patronage: Regional chambers of commerce and firm subsidies in China</title>
+<link>https://doi.org/10.1111/ajps.70027</link>
+<guid isPermaLink="false">10.1111/ajps.70027</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Zeren Li, Shenghua Lu&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Although conventional wisdom suggests that corporations form groups to obtain policy benefits through lobbying, we argue that business interest groups can secure distributive benefits for their members without advocating for policy changes. We introduce broker theory, which posits that interest groups act as intermediaries, linking member firms with political patrons who deliver tangible favors. We test this theory by examining China's interprovincial chambers of commerce (CoCs). We show that firms receive more distributive benefits—measured by subsidies from local governments—after obtaining CoC memberships. We present two forms of heterogeneity that support the broker role of CoCs. First, patronage benefits emerge only in chambers with officials‐turned‐brokers, who facilitate access to political patrons. Second, transparency weakens subsidy brokering: The membership premium diminishes in regions with greater transparency in subsidy allocation. We also show that these patronage benefits are not driven by the policy influence of CoCs or by reduced local protectionism.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>Grounding the diasporic turn in political theory: Meta‐commitment, transnationalism, and political obligation</title>
+<link>https://doi.org/10.1111/ajps.70020</link>
+<guid isPermaLink="false">10.1111/ajps.70020</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Kai Yui Samuel Chan, Anna Closas&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Diasporas remain understudied in political theory. To ground a robust engagement with diasporas and their normative challenges, we expand on current transnationalism literature to offer a non‐statist framework of political community. This framework is necessary as the diaspora is a transnational community that shares overlapping narratives and practices but lacks unified institutional structures and objectives. Tracking these features, we posit that individuals constitute a diasporic community by expressing, through their practices and narratives, a joint meta‐commitment to act as part of that community. Meta‐commitments do not require the parties to have substantial agreements beyond mutually recognizing each other as acting on behalf of the same community. The diasporic meta‐commitment grounds an obligation of answerability: Diasporic members owe each other an answer as to how their choices relate to the future of the diaspora. This account contributes to transnational political theory by explaining the conditions under which transnational relations generate obligations.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>Why women's equal representation increases policy losers’ consent: Revisiting the double‐edged sword of procedural fairness</title>
+<link>https://doi.org/10.1111/ajps.70021</link>
+<guid isPermaLink="false">10.1111/ajps.70021</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Mattias Agerberg, Lena Wängnerud&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Studies show that procedural fairness in the form of equal representation has the potential to increase decision legitimacy. At the same time, several studies point to potential adverse effects, where, for instance, the equal inclusion of women in decision‐making bodies might serve to legitimize anti‐feminist decisions in particular. We argue that such conclusions result from a failure to consider the importance of outcome favorability, a factor long recognized to be of crucial importance in other fields of research. We incorporate outcome favorability theoretically and empirically in several experimental studies and show that what has previously been interpreted as a “dark side” of descriptive representation, instead should be viewed as the power of fair procedures to increase losers’ consent. We contribute to the literature on representation and legitimacy and show how appropriate research design and measurement can shape substantive conclusions on high‐stakes issues.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>Police department design, political pressure, and racial inequality in arrests</title>
+<link>https://doi.org/10.1111/ajps.70016</link>
+<guid isPermaLink="false">10.1111/ajps.70016</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Andrew J. McCall&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;This paper theorizes a source of bias in discretionary arrests: strategic limits on police officer learning. Officers have a variety of tactics at their disposal besides arrest that they use for less serious offenses when they judge the underlying behavior to be less severe. In departments led by a chief with special expertise in crime control, the chief's directives to change the severity threshold at which officers make arrests are a source of information about the most effective practices. However, if officers are uncertain whether their chief is swayed by political pressures, those directives will be less persuasive, especially when they align with what influential advocates want. This mechanism represents a constraint on the effectiveness of departments where chiefs have limited means to force subordinate compliance. With increasing Black political influence in cities since World War II, this inefficiency would have generated a form of anti‐Black structural racism in policing.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
 <title>Defiant pride: Origins and consequences of ethnic voting</title>
 <link>https://doi.org/10.1111/ajps.70015</link>
 <guid isPermaLink="false">10.1111/ajps.70015</guid>
-<category>Early View</category>
-<pubDate>Tue, 07 Oct 2025 04:45:42 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Mashail Malik&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;&amp;lt;jats:p&amp;gt;Why do voters often remain loyal to ethnic parties despite receiving little in terms of material welfare? I develop a theory focused on the role of dignity concerns in explaining within‐group variation in ethnic party loyalty. Group members who face discrimination from state agencies dominated by outgroups respond with defiant pride, which manifests as ethnicity becoming a larger part of the self‐concept. This heightened ethnic identification creates a demand for recognition through descriptive representation. Consequently, high‐identifying group members—often from lower social classes—are more forgiving of malfeasance by ethnic parties and more likely to trade off material for symbolic goods. I provide experimental, descriptive, and qualitative evidence for this argument from Karachi, Pakistan—a megacity ruled for three decades by a poorly governing ethnic party. This article pushes the literature on ethnic voting beyond dominant instrumental approaches and underscores the necessity of systematically unpacking heterogeneity within ethnic groups.&amp;lt;/jats:p&amp;gt;</description>
+<category>Volume 70, Issue 4</category>
+<pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Mashail Malik&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;Why do voters often remain loyal to ethnic parties despite receiving little in terms of material welfare? I develop a theory focused on the role of dignity concerns in explaining within‐group variation in ethnic party loyalty. Group members who face discrimination from state agencies dominated by outgroups respond with defiant pride, which manifests as ethnicity becoming a larger part of the self‐concept. This heightened ethnic identification creates a demand for recognition through descriptive representation. Consequently, high‐identifying group members—often from lower social classes—are more forgiving of malfeasance by ethnic parties and more likely to trade off material for symbolic goods. I provide experimental, descriptive, and qualitative evidence for this argument from Karachi, Pakistan—a megacity ruled for three decades by a poorly governing ethnic party. This article pushes the literature on ethnic voting beyond dominant instrumental approaches and underscores the necessity of systematically unpacking heterogeneity within ethnic groups.&amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
 <title>The electoral politics of immigration and crime</title>
 <link>https://doi.org/10.1111/ajps.70013</link>
 <guid isPermaLink="false">10.1111/ajps.70013</guid>
-<category>Early View</category>
-<pubDate>Tue, 30 Sep 2025 15:59:08 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Jeyhun Alizade&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;&amp;lt;jats:p&amp;gt;Concern that immigration worsens crime problems is prevalent across Western publics. How does it shape electoral politics? Prior research asserted a growing left–right divide in immigration attitudes and voting behavior due to educational realignment. In contrast, I argue that leftist voters are more conservative on immigrant crime than leftist parties, which can drive highly educated progressives (so‐called “cosmopolitans”) to right‐wing parties. I demonstrate this &amp;lt;jats:italic&amp;gt;voter–party mismatch&amp;lt;/jats:italic&amp;gt; using survey data from 14 Western European countries linked with expert ratings of party positions. A panel survey from Germany further shows that concern about immigrant crime increases vote intention for the center right among voters of the Greens—the party of leftist cosmopolitans. A conjoint experiment among German voters replicates this defection effect and shows that it persists even if the center right stigmatizes immigrants or adopts conservative sociocultural issue positions. Repercussions of immigration can in fact drive leftist cosmopolitans to the right.&amp;lt;/jats:p&amp;gt;</description>
+<category>Volume 70, Issue 4</category>
+<pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Jeyhun Alizade&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;
+                    Concern that immigration worsens crime problems is prevalent across Western publics. How does it shape electoral politics? Prior research asserted a growing left–right divide in immigration attitudes and voting behavior due to educational realignment. In contrast, I argue that leftist voters are more conservative on immigrant crime than leftist parties, which can drive highly educated progressives (so‐called “cosmopolitans”) to right‐wing parties. I demonstrate this
+                    &amp;lt;jats:italic&amp;gt;voter–party mismatch&amp;lt;/jats:italic&amp;gt;
+                    using survey data from 14 Western European countries linked with expert ratings of party positions. A panel survey from Germany further shows that concern about immigrant crime increases vote intention for the center right among voters of the Greens—the party of leftist cosmopolitans. A conjoint experiment among German voters replicates this defection effect and shows that it persists even if the center right stigmatizes immigrants or adopts conservative sociocultural issue positions. Repercussions of immigration can in fact drive leftist cosmopolitans to the right.
+                  &amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
 <title>Unpacking gendered co‐participation in political violence: Women perpetrators of the 1994 genocide in Rwanda</title>
 <link>https://doi.org/10.1111/ajps.70007</link>
 <guid isPermaLink="false">10.1111/ajps.70007</guid>
-<category>Early View</category>
-<pubDate>Sat, 27 Sep 2025 05:11:14 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Jared F. Edgerton, Elizabeth L. Brannon, Dagmar Heintze, Hollie Nyseth Nzitatira&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;&amp;lt;jats:p&amp;gt;How does gender influence participation in violence? Research shows that women are less likely than men to engage in direct violence. However, women remain consequential actors in conflicts. Drawing on gendered understandings of conflict, we argue that mobilization is shaped by gendered homophily within social networks. We theorize that both men and women are likely to mobilize with individuals of the same gender. However, this effect is more pronounced for women due to differences in how men and women are mobilized for conflict as well as other forms of political engagement. To test this argument, we utilize data from the 1994 genocide that targeted Tutsi in Rwanda. Using network analysis, we demonstrate the pivotal role women played in mobilizing other women to commit violence. This article broadens our understanding of network dynamics in conflict and emphasizes the importance of gendered differences in mobilization patterns for political processes.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>The nation‐state, non‐Western empires, and the politics of cultural difference</title>
-<link>https://doi.org/10.1111/ajps.70011</link>
-<guid isPermaLink="false">10.1111/ajps.70011</guid>
-<category>Early View</category>
-<pubDate>Thu, 11 Sep 2025 10:36:07 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Loubna El Amine&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;&amp;lt;jats:p&amp;gt;While empires have been central to political theory, they almost always refer to Western forms of imperialism and colonialism to which non‐Western societies are subject. But precolonial empires have ruled much of the world for much of known history. Building on recent International Relations (IR) scholarship, this article reconstructs an ideal type of empires based on three non‐Western ones: the Qing, the Ottoman, and the Mughal empires, showing how they aim at cultural incorporation. I argue that this incorporation is made possible by three institutional features: the plural composition of their governing structures, the heterogenous relations between center and periphery, and the absence of a territorial basis for imperial authority. These features, in turn, make possible a normative ideal of inclusive peace. This historical foray shows how dependent multicultural ideals central to political theory today are on the contingent institutional features of modern states; it also helps us think beyond these.&amp;lt;/jats:p&amp;gt;</description>
+<category>Volume 70, Issue 4</category>
+<pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Jared F. Edgerton, Elizabeth L. Brannon, Dagmar Heintze, Hollie Nyseth Nzitatira&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;How does gender influence participation in violence? Research shows that women are less likely than men to engage in direct violence. However, women remain consequential actors in conflicts. Drawing on gendered understandings of conflict, we argue that mobilization is shaped by gendered homophily within social networks. We theorize that both men and women are likely to mobilize with individuals of the same gender. However, this effect is more pronounced for women due to differences in how men and women are mobilized for conflict as well as other forms of political engagement. To test this argument, we utilize data from the 1994 genocide that targeted Tutsi in Rwanda. Using network analysis, we demonstrate the pivotal role women played in mobilizing other women to commit violence. This article broadens our understanding of network dynamics in conflict and emphasizes the importance of gendered differences in mobilization patterns for political processes.&amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
 <title>Change in migrants’ political attitudes: Acculturation and cosmopolitanization</title>
 <link>https://doi.org/10.1111/ajps.70012</link>
 <guid isPermaLink="false">10.1111/ajps.70012</guid>
-<category>Early View</category>
-<pubDate>Thu, 11 Sep 2025 10:34:56 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Eva Krejcova, Filip Kostelka, Nicolas Sauger&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;&amp;lt;jats:p&amp;gt;This paper investigates change in international migrants’ political attitudes. It theorizes a novel attitudinal typology distinguishing polity‐specific attitudes influenced by national contexts and transnational attitudes forged by migratory experience. It applies the typology to four dimensions of political competition in contemporary Europe: redistribution, homosexuality, European integration, and immigration. The paper tests the new theory using cross‐sectional and panel data spanning nearly 380,000 observations from 104 sending and 28 destination countries. It introduces a new strategy to model cross‐classified hierarchical data, addresses issues inherent to group comparison, and pioneers two empirical inquiries into migrants’ self‐selection. The results show that migration prompts the acculturation of polity‐specific attitudes and the cosmopolitanization of transnational attitudes. Migrants adopt their host countries’ attitudes toward redistribution and homosexuality while developing a uniquely liberal outlook on European integration and immigration. These findings carry major implications for our understanding of attitudinal change and the dimensionality of the ideological space.&amp;lt;/jats:p&amp;gt;</description>
+<category>Volume 70, Issue 4</category>
+<pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Eva Krejcova, Filip Kostelka, Nicolas Sauger&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;This paper investigates change in international migrants’ political attitudes. It theorizes a novel attitudinal typology distinguishing polity‐specific attitudes influenced by national contexts and transnational attitudes forged by migratory experience. It applies the typology to four dimensions of political competition in contemporary Europe: redistribution, homosexuality, European integration, and immigration. The paper tests the new theory using cross‐sectional and panel data spanning nearly 380,000 observations from 104 sending and 28 destination countries. It introduces a new strategy to model cross‐classified hierarchical data, addresses issues inherent to group comparison, and pioneers two empirical inquiries into migrants’ self‐selection. The results show that migration prompts the acculturation of polity‐specific attitudes and the cosmopolitanization of transnational attitudes. Migrants adopt their host countries’ attitudes toward redistribution and homosexuality while developing a uniquely liberal outlook on European integration and immigration. These findings carry major implications for our understanding of attitudinal change and the dimensionality of the ideological space.&amp;lt;/jats:p&amp;gt;</description>
+</item>
+<item>
+<title>The nation‐state, non‐Western empires, and the politics of cultural difference</title>
+<link>https://doi.org/10.1111/ajps.70011</link>
+<guid isPermaLink="false">10.1111/ajps.70011</guid>
+<category>Volume 70, Issue 4</category>
+<pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Loubna El Amine&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+                  &amp;lt;jats:p&amp;gt;While empires have been central to political theory, they almost always refer to Western forms of imperialism and colonialism to which non‐Western societies are subject. But precolonial empires have ruled much of the world for much of known history. Building on recent International Relations (IR) scholarship, this article reconstructs an ideal type of empires based on three non‐Western ones: the Qing, the Ottoman, and the Mughal empires, showing how they aim at cultural incorporation. I argue that this incorporation is made possible by three institutional features: the plural composition of their governing structures, the heterogenous relations between center and periphery, and the absence of a territorial basis for imperial authority. These features, in turn, make possible a normative ideal of inclusive peace. This historical foray shows how dependent multicultural ideals central to political theory today are on the contingent institutional features of modern states; it also helps us think beyond these.&amp;lt;/jats:p&amp;gt;</description>
 </item>
 <item>
 <title>Injustice, relational violence, and the foster system</title>
 <link>https://doi.org/10.1111/ajps.70003</link>
 <guid isPermaLink="false">10.1111/ajps.70003</guid>
-<category>Early View</category>
-<pubDate>Mon, 04 Aug 2025 10:53:39 +0000</pubDate>
-<description>[Early View]&lt;br/&gt;&lt;br/&gt;Authors: Emma Ebowe&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
+<category>Volume 70, Issue 4</category>
+<pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+<description>[Volume 70, Issue 4]&lt;br/&gt;&lt;br/&gt;Authors: Emma Ebowe&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
                   &amp;lt;jats:p&amp;gt;Political theorists have not paid sustained attention to the foster system or treated it as a political institution. Despite this, scholars and social movement advocates have identified the system as a site of social and political injustice. This paper develops an account of racial, class, and relational injustice in the contemporary US foster system and provides an ethical framework for evaluating moral harms to intimate relationships. I propose the novel ethical concept of relational violence, which I suggest occurs when an external force damages an intimate bond by substantially disrupting an intimate relationship. Relational violence is generally wrong, and we have moral reasons to avoid it. But in the foster system, poverty, housing insecurity, and racial prejudice can lead to unnecessary relational violence through child removals. The foster system, then, emerges as an unjust institution that can compound the existing harms of racial and economic inequality with painful relational injustices.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Issue Information</title>
-<link>https://doi.org/10.1111/ajps.70071</link>
-<guid isPermaLink="false">10.1111/ajps.70071</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]</description>
-</item>
-<item>
-<title>Classification algorithms and social outcomes</title>
-<link>https://doi.org/10.1111/ajps.70005</link>
-<guid isPermaLink="false">10.1111/ajps.70005</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Elizabeth Maggie Penn, John W. Patty&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Classification algorithms are increasingly important in areas such as obtaining credit, employment, health care, housing, law enforcement, and national security. These classification decisions affect people's lives and, accordingly, can shape their behaviors. We present a formal model of optimal classification by an algorithm designer who may want to affect the distribution of behavior in a population. Our model allows the designer to have a wide array of objectives (such as maximizing compliance or maximizing accuracy, among many others), and these objectives shape equilibrium behavioral outcomes in the population, sometimes in surprising ways. Our results also speak to questions of algorithmic fairness in settings where behavior and algorithms are interdependent, and where measures of fairness focusing on statistical parity across groups may not be appropriate.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>The effect of real‐news party cues</title>
-<link>https://doi.org/10.1111/ajps.70014</link>
-<guid isPermaLink="false">10.1111/ajps.70014</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Rasmus Skytte&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;
-                    News media routinely offer cues about the stances of party elites, but to what extent do these cues shape the policy opinions of the public? While numerous experiments find that partisans adopt the stances of their leaders, these findings may not generalize easily to the context of real news, which often contains richer policy information and more subtle, ambiguous party cues than the artificial stimuli commonly employed. To investigate the impact of party cues as they naturally appear in news coverage—what I term
-                    &amp;lt;jats:italic&amp;gt;real‐news party cues&amp;lt;/jats:italic&amp;gt;
-                    —I develop a new experimental paradigm. I first sample 70 articles covering political proposals from a large pool of real news and prepare two versions of each: one with and one without these cues. These articles then serve as stimuli in survey experiments among representative samples of Americans (
-                    &amp;lt;jats:italic&amp;gt;n&amp;lt;/jats:italic&amp;gt;
-                     = 12,177). I find that real‐news party cues have mostly modest effects on policy opinions.
-                  &amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>How FDI reshapes host markets’ trade profile and politics</title>
-<link>https://doi.org/10.1111/ajps.70010</link>
-<guid isPermaLink="false">10.1111/ajps.70010</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: In Song Kim, Steven Liao, Sayumi Miyano&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;
-                    A fast‐growing literature indicates that firms’ engagement in foreign direct investment (FDI) and trade is key to understanding deepening global value chains and their political implications. However, existing studies have mainly focused on the ramifications for FDI home countries while often overlooking the
-                    &amp;lt;jats:italic&amp;gt;firm‐product level&amp;lt;/jats:italic&amp;gt;
-                    interactions between FDI and trade, where their interdependencies manifest. This study examines how firms’ FDI reshapes host countries’ trade profiles at this level, empowering new political coalitions for trade liberalization. Analyzing greenfield FDI projects globally since 2003, we find that hosts experienced an average increase of over 45 export products in the following year. To overcome the challenges of connecting firms to products, we link FDI data with Vietnamese customs records. We find that Vietnamese export (import) volumes of FDI‐related products increased by 90% (30%) within 4 years of initial investments. Importantly, these products also benefited from more substantial tariff cuts in bilateral Free Trade Agreements.
-                  &amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Testing the stability and temporal order of People of Color
-                    &lt;i&gt;Identity&lt;/i&gt;
-                    and People of Color
-                    &lt;i&gt;Solidarity&lt;/i&gt;
-                    : New evidence from a survey panel of Asian, Black, Latino, and multiracial adults</title>
-<link>https://doi.org/10.1111/ajps.70009</link>
-<guid isPermaLink="false">10.1111/ajps.70009</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Andrew M. Engelhardt, Efrén Pérez, Seth K. Goldman, Yuen J. Huo, Tatishe Nteta, Linda R. Tropp&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;
-                    Two crucial variables in the study of people of color (PoC) are
-                    &amp;lt;jats:italic&amp;gt;identity&amp;lt;/jats:italic&amp;gt;
-                    and
-                    &amp;lt;jats:italic&amp;gt;solidarity&amp;lt;/jats:italic&amp;gt;
-                    . Existing work construes
-                    &amp;lt;jats:italic&amp;gt;identity&amp;lt;/jats:italic&amp;gt;
-                    as more stable than
-                    &amp;lt;jats:italic&amp;gt;solidarity&amp;lt;/jats:italic&amp;gt;
-                    , with
-                    &amp;lt;jats:italic&amp;gt;identity&amp;lt;/jats:italic&amp;gt;
-                    shifting
-                    &amp;lt;jats:italic&amp;gt;solidarity&amp;lt;/jats:italic&amp;gt;
-                    between PoC. However, this view rests on cross‐sectional evidence, limiting researchers’ ability to formally appraise these key variables’ stability and sequence. We report the first longitudinal evidence on these matters by leveraging a unique two‐wave survey of Asian, Black, Latino, and multiracial adults. First, contrary to the current conceptualization, we find PoC
-                    &amp;lt;jats:italic&amp;gt;solidarity&amp;lt;/jats:italic&amp;gt;
-                    is as stable as PoC
-                    &amp;lt;jats:italic&amp;gt;identity&amp;lt;/jats:italic&amp;gt;
-                    , suggesting two alternate but durable sources of political unity among these groups. Second, consistent with its present conceptualization, we show PoC
-                    &amp;lt;jats:italic&amp;gt;identity&amp;lt;/jats:italic&amp;gt;
-                    is associated with shifts in
-                    &amp;lt;jats:italic&amp;gt;solidarity&amp;lt;/jats:italic&amp;gt;
-                    , but not vice versa. Third, we offer evidence that the dynamics between these variables hold uniformly across different PoC subgroups, highlighting this mega‐group's coherence and political relevance. We conclude by discussing our results’ implications for US inter‐minority politics.
-                  &amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Electoral responses to economic crises</title>
-<link>https://doi.org/10.1111/ajps.70008</link>
-<guid isPermaLink="false">10.1111/ajps.70008</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Yotam Margalit, Omer Solodoch&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;How do voters respond to economic crises: Do they turn against the incumbent, reward a certain political camp, polarize to the extremes, or perhaps continue to vote much like before? Analyzing extensive data on electorates, parties, and individuals in 24 countries for over half a century, we document a systematic pattern whereby economic crises tend to disproportionately favor the right. Three main forces underlie this pattern. First, voters tend to decrease support for the party heading the government when the crisis erupts. Second, after crises, voters tend to assign greater importance to issues typically owned by the right. Third, when center‐right parties preside over a crisis, voters often drift further rightward to nationalist parties rather than defect to the left. The far‐right thus serves as an effective vehicle for keeping the center‐right in power even when facing postcrisis disaffection by its voters.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Competitive diplomacy in bargaining and war</title>
-<link>https://doi.org/10.1111/ajps.70006</link>
-<guid isPermaLink="false">10.1111/ajps.70006</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Joseph J. Ruggiero&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;War is often viewed as a bargaining problem. However, prior to bargaining, countries can vie for leverage by expending effort on diplomacy. This article presents a dynamic model of conflict where agenda‐setting power is endogenous to pre‐bargaining diplomatic competition. The ability to compete for leverage generates a new channel through which the nature of potential war affects the quality of peace. First, costs of war grow the bargaining surplus, fueling the battle for leverage and reducing welfare even if war never occurs on the path of play. Second, competitive diplomacy erodes the gains from peace, making it possible that war is relatively efficient. An extension of the model finds that frictions to cooperation create a risk of costly delay but also protect against erosion of the surplus. Moreover, I find that reliable deals avert “efficient” wars but introduce a trade‐off between welfare and timely settlement.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Balancing bossism: State expansion in the face of elite capture</title>
-<link>https://doi.org/10.1111/ajps.70004</link>
-<guid isPermaLink="false">10.1111/ajps.70004</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Anna F. Callis, Christopher L. Carter&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;
-                    Central states have often relied on local elites to implement policies in peripheral areas. These strategies may allow otherwise weak states to impose their directives, but they can also be inefficient, particularly when a single elite commands total control over local politics (
-                    &amp;lt;jats:italic&amp;gt;monopolist capture&amp;lt;/jats:italic&amp;gt;
-                    ). We argue that weak states can overcome this equilibrium by creating new subnational positions with distinct appointment rules from existing ones (
-                    &amp;lt;jats:italic&amp;gt;balancing&amp;lt;/jats:italic&amp;gt;
-                    ). We evaluate our argument leveraging a natural experiment and novel data on 12,000 sub‐municipal units from turn‐of‐the‐twentieth‐century Peru. We exploit as‐if random variation in population‐based appointment rules for a justice of the peace, the chief institution through which monopolist capture was established. We provide evidence that the Peruvian government responded to monopolist capture by creating local‐level executive positions (lieutenant governors). We further demonstrate that this balancing allowed the state to conduct a 1902 education census, which was otherwise opposed and often blocked by entrenched elites.
-                  &amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>The Troubles and Beyond: The impact of a museum exhibit on a post‐conflict society</title>
-<link>https://doi.org/10.1111/ajps.70001</link>
-<guid isPermaLink="false">10.1111/ajps.70001</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Laia Balcells, Elsa Voytas&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;In divided societies, can museums contribute to healing and recovery? While efforts to memorialize past violence typically aim to promote tolerance and reconciliation, remembering could exacerbate divisions in recovering societies where the past is deeply contested. We examine a transitional justice museum exhibit in Northern Ireland. We combine evidence from nearly 1,400 participants across focus groups, a field experiment at the Troubles and Beyond exhibit in the Ulster Museum, and a survey that randomly exposed respondents to exhibit materials. Our findings indicate that although individuals experience strong emotional responses to the exhibit materials, these emotions do not correspond to shifts in perceptions of past violent conflict or preferences for addressing it. These results may reflect the balanced curation of the museum exhibit, which avoids imposing a singular narrative. While this approach prevents further polarization, it also limits the potential for fostering social cohesion.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Climate crisis and policy inaction in Indonesia</title>
-<link>https://doi.org/10.1111/ajps.70002</link>
-<guid isPermaLink="false">10.1111/ajps.70002</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Allan Hsiao, Nicholas Kuipers&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;We surveyed voters and politicians in advance of the 2024 Indonesian election to measure preferences for environmental policy. We find that politicians underestimate voter concerns. We conducted an informational experiment with politicians to correct these misperceptions, and we document evidence of learning but no greater support for policy action. We explore three explanations for why voter preferences do not translate into policy. First, politicians only consider acting when their initial misperceptions are particularly large. Second, elite capture prevents politicians from implementing environmental protection. Third, voters prioritize progress in other domains. Our results underscore the multiplicity of challenges facing climate action.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>The super rich and the rest: Campaign finance pressures and the wealth of politicians</title>
-<link>https://doi.org/10.1111/ajps.12996</link>
-<guid isPermaLink="false">10.1111/ajps.12996</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Lucia Motolinia, Marko Klašnja, Simon Weschle&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;
-                    We provide a comprehensive theoretical and empirical account of the relationship between campaign finance pressures and the wealth of politicians. We argue that the heavily right‐skewed wealth distributions observed in contemporary societies translate into similarly skewed distributions of campaign resources. Such unequal resources mean that greater pressures to spend on campaigns disproportionately benefit the
-                    &amp;lt;jats:italic&amp;gt;very&amp;lt;/jats:italic&amp;gt;
-                    wealthy. We also identify several conditions that determine the extent of the financing advantages of the very rich, and at whose expense they accrue. We test our propositions using a unique original data set on the wealth of more than 23,000 national legislators from 41 countries, as well as by exploiting quasi‐random variation in financing pressures provided by recent campaign finance reforms in Brazil and Chile. The analyses consistently show that greater financing pressures lead to greater shares of wealthy, and especially very wealthy legislators, and that these advantages vary in ways consistent with our predictions.
-                  &amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>States, cities, and border control: Do sub‐state collectives have a right to protect vulnerable people on the move?</title>
-<link>https://doi.org/10.1111/ajps.12998</link>
-<guid isPermaLink="false">10.1111/ajps.12998</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Kim Angell&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;It is beyond doubt that states everywhere practice discretionary border control. However, in normative political theory, there is vigorous debate about the justifiability of this practice. Some theorists appeal to border crossers’ interest in free movement, envisioning an open borders utopia, while others emphasize the value of collective self‐determination, defending strong border control rights for states. Both perspectives focus on two primary interest‐holders: state collectives and individual border crossers. This analysis offers a novel perspective by arguing that cities—and sub‐state collectives in general—may also have significant interests in immigration policy. Through empirical examples like Europe's “Solidarity Cities” and North American sanctuary cities, the paper argues that cities often possess self‐determination–based rights to protect an additional quota of vulnerable border crossers, beyond those their state protects. This conclusion is surprising because appeals to self‐determination typically defend a state's right to limit migration. Yet, it is one that proponents of the self‐determination view have reason to accept.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>The logic of secret alliances</title>
-<link>https://doi.org/10.1111/ajps.12997</link>
-<guid isPermaLink="false">10.1111/ajps.12997</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Peter Bils, Bradley C. Smith&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Alliances are typically understood as agreements intended to deter aggression from enemy states. By signaling an ally's commitment to a protégé state, a shared enemy may be deterred from attacking. In light of this signaling logic, secret alliances are puzzling. Because they are not observed, secret alliances by definition cannot achieve deterrence through signaling. So why do states enter into these secret agreements? We argue that alliances may also act as a signal of a state's intentions, potentially undermining deterrence. If a new alliance signals that the members' interests are unaligned with those of a shared enemy, the enemy may be provoked into war. As a consequence, states sometimes want to keep alliance agreements secret. To develop this argument, we analyze a formal model in which states may enter into secret or public alliance agreements. We find that the possibility of secret alliances has general effects on deterrence—possibly undermining the deterrent value of concurrent public alliances.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Representation increases women's influence in climate deliberations: Evidence from community‐managed forests in Malawi</title>
-<link>https://doi.org/10.1111/ajps.12994</link>
-<guid isPermaLink="false">10.1111/ajps.12994</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Amanda Clayton, Boniface Dulani, Katrina Kosec, Amanda Lea Robinson&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Women's inclusion is now the norm in global and local initiatives to combat climate change. We examine how women's representation affects climate deliberations using the case of community‐managed forests in Malawi. We run a lab‐in‐the‐field experiment randomly varying the gender composition of six‐member groups asked to deliberate on policies to combat local overharvesting. We find that any given woman has relatively more influence in group deliberations when women make up a larger share of the group, a change driven by men's assessments of women's influence. Women's presence also shifts the content of deliberations toward prospective solutions for which women have socially recognized expertise (cooking and replanting). Despite these changes, women and men do not prefer different deforestation policies, and women's presence does not meaningfully affect group decisions. Our work demonstrates how women's presence shapes climate deliberations but also calls into question claims that women's inclusion will necessarily affect climate decisions.&amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>A model of policy timing: Hedging, pandering, and gambling</title>
-<link>https://doi.org/10.1111/ajps.12993</link>
-<guid isPermaLink="false">10.1111/ajps.12993</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Daniel Gibbs&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;
-                    I study a political agency model where a reelection‐seeking politician chooses when to make policy and a voter learns about the politician's competence from its timing, substance, and outcome. It takes time for the politician to receive information about which policy is in the voter's best interest and for the effect of policy to be observed. Due to perverse electoral incentives, politicians engage in three behaviors that limit electoral accountability. First, politicians
-                    &amp;lt;jats:italic&amp;gt;hedge&amp;lt;/jats:italic&amp;gt;
-                    by delaying policy to hide potential policy failure from voters. Second, politicians
-                    &amp;lt;jats:italic&amp;gt;pander&amp;lt;/jats:italic&amp;gt;
-                    late in the electoral cycle where they cannot credibly campaign on the success of an unpopular policy. Third, in the hope of producing visible policy success, politicians
-                    &amp;lt;jats:italic&amp;gt;gamble&amp;lt;/jats:italic&amp;gt;
-                    by making a prompt policy choice when it is in the voter's best interest to delay. I show how politicians use these behaviors strategically in response to different contingencies and study their implications for electoral accountability.
-                  &amp;lt;/jats:p&amp;gt;</description>
-</item>
-<item>
-<title>Commerce, coalitions, and global value chains: Coordinated and collective lobbying on trade</title>
-<link>https://doi.org/10.1111/ajps.12987</link>
-<guid isPermaLink="false">10.1111/ajps.12987</guid>
-<category>Volume 70, Issue 3</category>
-<pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-<description>[Volume 70, Issue 3]&lt;br/&gt;&lt;br/&gt;Authors: Hao Zhang&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:title&amp;gt;Abstract&amp;lt;/jats:title&amp;gt;
-                  &amp;lt;jats:p&amp;gt;Global value chains (GVCs) have connected firms in complex networks within and across national borders. However, political economy models often assume away production linkages and thus fail to explain pervasive and diverse trade coalitions cutting across industries and firms. I develop a GVC‐centered framework where production linkages through a common foreign partner foster interdependent preferences and collective action for trade liberalization. For empirical tests, I compile firm‐to‐firm supply chain networks, construct direct measures, and estimate various network models. I find that US firms with GVC linkages tend to lobby together, lobby on the same bill, and hire the same lobbyist. Furthermore, GVC linkages among lead firms increase collective lobbying through trade associations. Finally, I show that GVC linkages predict the formation and depth of preferential trade networks. These results provide microfoundations for new coalitional politics under GVCs and challenge the common assumption about industries and firms as isolated political actors.&amp;lt;/jats:p&amp;gt;</description>
 </item>
 </channel>
 </rss>
